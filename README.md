@@ -45,11 +45,11 @@ Achievements:
 
 Founder and Shareholder of Helium Chiapas / Mexico. 06/2021 – PRESENT
 Responsibilities:
-• Leading and supervising a team of 7 professionals and maintaining close relationships with investors.
-• Managing a company dedicated to software creation and cryptocurrency mining.
+- Leading and supervising a team of 7 professionals and maintaining close relationships with investors.
+- Managing a company dedicated to software creation and cryptocurrency mining.
 Achievements:
-• Successful management of a portfolio with 75 miners.
-• In-depth knowledge and experience in managing DeFi spaces, implementation of blockchain-based solutions, and advanced understanding of current trends in the cryptographic world.
+- Successful management of a portfolio with 75 miners.
+- In-depth knowledge and experience in managing DeFi spaces, implementation of blockchain-based solutions, and advanced understanding of current trends in the cryptographic world.
 
 #### Stock and Derivatives Investor / Independent, 2018-PRESENT
 Platforms: Thinkorswim, Interactive Brokers, Refinitiv, Bloomberg.
