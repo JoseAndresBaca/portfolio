@@ -5,7 +5,7 @@ Self-taught, passionate about finance and analytics, I am seeking a dynamic envi
 
 ## Education
 
-#### B.S. Finance with Specialization in Corporate Financing through Investment Banking @ Tecnológico de Monterrey, Querétaro. 2019 - 2023
+#### B.S. Finance with Specialization in Corporate Financing through Investment Banking @ Tecnológico de Monterrey, Querétaro. (_2019 - 2023_)**
 Average: 95/100
 
 #### Professional Data Science & AI @ DEV.F, Mexico City. 02/2021 – 09/2021
@@ -70,5 +70,8 @@ Achievements:
 - Consistent positive returns of over 20% for three years.
 
 ## Projects
+
+## Publications
+
 
 
