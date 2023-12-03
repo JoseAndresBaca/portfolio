@@ -1,6 +1,8 @@
 # Data Scientist
 ### Technical Skills: R Studio, Python
 
+Self-taught, passionate about finance and analytics, I am seeking a dynamic environment to apply and expand my skills. I aspire to collaborate in multidisciplinary teams, face challenges, and provide innovative solutions in strategic decisions. Committed to growth and excellence.
+
 ## Education
 
 #### B.S. Finance with Specialization in Corporate Financing through Investment Banking @ Tecnológico de Monterrey, Querétaro. 2019 - 2023
