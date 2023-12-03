@@ -5,10 +5,10 @@ Self-taught, passionate about finance and analytics, I am seeking a dynamic envi
 
 ## Education
 
-#### B.S. Finance with Specialization in Corporate Financing through Investment Banking @ Tecnológico de Monterrey, Querétaro. (_2019 - 2023_)**
+**B.S. Finance with Specialization in Corporate Financing through Investment Banking @ Tecnológico de Monterrey, Querétaro. (_2019 - 2023_)**
 Average: 95/100
 
-#### Professional Data Science & AI @ DEV.F, Mexico City. 02/2021 – 09/2021
+#### Professional Data Science & AI @ DEV.F, Mexico City. (_02/2021 – 09/2021_)
 
 #### Blockchain Specialization @ University of California, Irvine. 
 COURSES:
