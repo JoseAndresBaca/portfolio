@@ -3,3 +3,5 @@ logo: /images/foto_circulo.png
 #description: 
 show_downloads: false
 theme: jekyll-theme-minimal
+primary_color: "#0056b3"
+accent_color: "#ff5733"
