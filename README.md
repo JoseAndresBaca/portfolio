@@ -20,7 +20,7 @@ COURSES:
 ## International Experience
 
 #### Excellence Intensive English for Academic Purposes @ Queen's University, Canada. 08/2018 – 05/2019
-Valedictorian / Highest average of the class
+Valedictorian / Highest GPA of the class
 
 #### International exchange with double masters specialization @ Colegio Universitario de Estudios Financieros (CUNEF) | Complutense University of Madrid, Spain. 01/2023 – 07/2023
 - Global Structured Finance, Financial Engineering.
