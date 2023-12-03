@@ -17,7 +17,7 @@ COURSES:
 - The Merkle Tree and Cryptocurrencies
 - The Blockchain System
 
-**Nanodegree Programming for Economic and Business Data Management: Using Python Language @ University of Cantabria. Full Scholarship.**
+**Nanodegree Programming for Economic and Business Data Management: Using Python Language @ University of Cantabria. _Full Scholarship_**
 
 ## International Experience
 
