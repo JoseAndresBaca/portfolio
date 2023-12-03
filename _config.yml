@@ -1,7 +1,12 @@
 title: José Andrés Baca
-logo: /images/foto_circulo.png
-#description: 
+logo: /images/foto_circulo.png 
 show_downloads: false
 theme: jekyll-theme-minimal
+
+Description: Self-taught, passionate about finance and analytics, I am seeking a dynamic environment to apply and expand my skills. I aspire to collaborate in multidisciplinary teams, face challenges, and provide innovative solutions in strategic decisions. Committed to growth and excellence.
+phone: (+52) 9671145039
+email: bacasalgado@gmail.com
+linkedin_username: www.linkedin.com/in/josé-andrés-baca-salgado-5aa32b1b3
+
 primary_color: "#0056b3"
 accent_color: "#ff5733"
